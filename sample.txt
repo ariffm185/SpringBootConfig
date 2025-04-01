@@ -7,9 +7,4 @@ Modify
 
 new change later;
 
-<<<<<<< HEAD
 new CH
-=======
-
-Emergency
->>>>>>> 740f12c723978c3259463743ed3c65050f7b7d36
